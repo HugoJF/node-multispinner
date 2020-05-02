@@ -27,7 +27,7 @@
     "kind-of": "^2.0.1",
     "lodash.clonedeep": "^3.0.2",
     "lodash.merge": "^3.3.2",
-    "log-update": "^1.0.2"
+    "log-update": "^4.0.0"
   },
   "devDependencies": {
     "chai": "^3.3.0",
